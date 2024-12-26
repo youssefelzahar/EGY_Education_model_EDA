@@ -56,16 +56,6 @@ To run the code in this repository, follow these steps:
    cd EGY_Education_model_EDA
    ```
 
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Open the Jupyter notebook:
-   ```bash
-   jupyter notebook model.ipynb
-   ```
-
 ## Usage
 
 1. Run the notebook `model.ipynb` to explore the EDA and modeling steps.
